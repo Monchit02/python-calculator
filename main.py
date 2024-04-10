@@ -1,12 +1,11 @@
 # Add your functions here!
-def add(num1, num2):
-    result=num1+num2
-    print("The result is" + result)
-    
-def subtract(num1, num2):
-    result=num1-num2
-    print("The result is" + result)
-
+def add (num1, num2) :
+result = numl + num2
+print ("The result is: ", result)
+def subtract (numi, num2) :
+result = numl - num2
+print ("The result of subtract is : ", result)
+fhjs
 def divide(num1, num2):
     result = num1/num2
     print("The result is: ", result)
