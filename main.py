@@ -3,6 +3,10 @@ def divide(num1, num2):
     result = num1/num2
     print("The result is: ", result)
 
+def multiply(num1, num2):
+    result = num1+num2
+    print("The multiplication result is :" + result)
+
 def module(num1, num2):
     result = num1%num2
     print("The result is: ", result)
